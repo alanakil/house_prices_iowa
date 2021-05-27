@@ -4,7 +4,7 @@ Here, I took a Kaggle dataset describing house features and their sale price in 
 
 The goal was to be able to, based on 80 features of a house, predict the sale price of that house.
 For that, I built a number of predictive models and evaluated their performance.
-It turned out that the best performing model was Ridge Regression.
+It turned out that the best performing model was Ridge Regression with a test percent error of just 0.602%.
 
 In the python notebook saved here, I go over nearly all the steps in the modelling process in detail. Some of things I did include:
 - Dealing with missing/nan values.
